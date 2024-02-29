@@ -1,2 +1,3 @@
 # httpAdapter
-Java Adapter Samples
+JavaScript Adapter Samples
+
